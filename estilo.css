@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 100px;
+    background: grey;
+    color: white;
+    margin: 0 0 20px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#conteudo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+#conteudo div {
+    width: 400px;
+    height: 400px;
+
+}
+
+#conteudo select {
+    width: 100%;
+    height: 100%;
+}
+
+#bandeira img {
+    width: 80%;
+
+}
+
+#bandeira {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+footer p {
+    text-align: center;
+}

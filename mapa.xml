@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapa>
+    <continente>
+        <regiao>África</regiao>
+        <paises>
+            <pais>
+                <nome>Argélia</nome>
+                <bandeira>dz</bandeira>
+            </pais >
+            <pais>
+                <nome>Angola</nome>
+                <bandeira>ao</bandeira>
+            </pais >
+            <pais>
+                <nome>Benim</nome>
+                <bandeira>bj</bandeira>
+            </pais >
+            <pais>
+                <nome>Botsuana</nome>
+
+                <bandeira>bw</bandeira>
+            </pais >
+            <pais>
+                <nome>Burquina Faso</nome>
+                <bandeira>bf</bandeira>
+            </pais >
+            <pais>
+                <nome>Burundi</nome>
+                <bandeira>bi</bandeira>
+            </pais >
+            <pais>
+                <nome>Camarões</nome>
+                <bandeira>cm</bandeira>
+            </pais >
+            <pais>
+                <nome>Cabo Verde</nome>
+                <bandeira>cv</bandeira>
+            </pais >
+            <pais>
+                <nome>República Centro-Africana</nome>
+                <bandeira>cf</bandeira>
+            </pais >
+            <pais>
+                <nome>Chade</nome>
+                <bandeira>td</bandeira>
+            </pais >
+            <pais>
+                <nome>Comores</nome>
+                <bandeira>km</bandeira>
+            </pais >
+            <pais>
+                <nome>Congo</nome>
+                <bandeira>cg</bandeira>
+            </pais >
+            <pais>
+                <nome>Costa do Marfim</nome>
+                <bandeira>ci</bandeira>
+            </pais >
+            <pais>
+                <nome>Djibuti</nome>
+                <bandeira>dj</bandeira>
+            </pais >
+            <pais>
+                <nome>Equador</nome>
+                <bandeira>ec</bandeira>
+            </pais >
+            <pais>
+                <nome>Egito</nome>
+                <bandeira>eg</bandeira>
+            </pais >
+            <pais>
+                <nome>Guiné Equatorial</nome>
+                <bandeira>gq</bandeira>
+            </pais >
+            <pais>
+                <nome>Eritreia</nome>
+                <bandeira>er</bandeira>
+            </pais >
+            <pais>
+                <nome>Etiópia</nome>
+                <bandeira>et</bandeira>
+            </pais >
+            <pais>
+                <nome>Gabão</nome>
+                <bandeira>ga</bandeira>
+            </pais >
+            <pais>
+                <nome>Gâmbia</nome>
+                <bandeira>gm</bandeira>
+            </pais >
+            <pais>
+                <nome>Gana</nome>
+                <bandeira>gh</bandeira>
+            </pais >
+            <pais>
+                <nome>Guiné</nome>
+                <bandeira>gn</bandeira>
+            </pais >
+            <pais>
+                <nome>Guiné-Bissau</nome>
+                <bandeira>gw</bandeira>
+            </pais >
+            <pais>
+                <nome>Quênia</nome>
+                <bandeira>ke</bandeira>
+            </pais >
+            <pais>
+                <nome>Lesoto</nome>
+                <bandeira>ls</bandeira>
+            </pais >
+            <pais>
+                <nome>Libéria</nome>
+                <bandeira>lr</bandeira>
+            </pais >
+            <pais>
+                <nome>Jamahiriya árabe da Líbia</nome>
+                <bandeira>ly</bandeira>
+            </pais >
+            <pais>
+                <nome>Madagáscar</nome>
+                <bandeira>mg</bandeira>
+            </pais >
+            <pais>
+                <nome>Malawi</nome>
+                <bandeira>mw</bandeira>
+            </pais >
+            <pais>
+                <nome>Mali</nome>
+                <bandeira>ml</bandeira>
+            </pais >
+            <pais>
+                <nome>Mauritânia</nome>
+                <bandeira>mr</bandeira>
+            </pais >
+            <pais>
+                <nome>Maurícia</nome>
+                <bandeira>mu</bandeira>
+            </pais >
+            <pais>
+                <nome>Mayotte</nome>
+                <bandeira>yt</bandeira>
+            </pais >
+            <pais>
+                <nome>Marrocos</nome>
+                <bandeira>ma</bandeira>
+            </pais >
+            <pais>
+                <nome>Moçambique</nome>
+                <bandeira>mz</bandeira>
+            </pais >
+            <pais>
+                <nome>Namíbia</nome>
+                <bandeira>na</bandeira>
+            </pais >
+            <pais>
+                <nome>Níger</nome>
+                <bandeira>ne</bandeira>
+            </pais >
+            <pais>
+                <nome>Nigéria</nome>
+                <bandeira>ng</bandeira>
+            </pais >
+            <pais>
+                <nome>Reunião</nome>
+                <bandeira>re</bandeira>
+            </pais >
+            <pais>
+                <nome>Ruanda</nome>
+                <bandeira>rw</bandeira>
+            </pais >
+            <pais>
+                <nome>Samoa</nome>
+                <bandeira>ws</bandeira>
+            </pais >
+            <pais>
+                <nome>São Tomé e Príncipe</nome>
+                <bandeira>st</bandeira>
+            </pais >
+            <pais>
+                <nome>Senegal</nome>
+                <bandeira>sn</bandeira>
+            </pais >
+            <pais>
+                <nome>Seicheles</nome>
+                <bandeira>sc</bandeira>
+            </pais >
+            <pais>
+                <nome>Serra Leoa</nome>
+                <bandeira>sl</bandeira>
+            </pais >
+            <pais>
+                <nome>Somália</nome>
+                <bandeira>so</bandeira>
+            </pais >
+            <pais>
+                <nome>África do Sul</nome>
+                <bandeira>za</bandeira>
+            </pais >
+            <pais>
+                <nome>Sudão</nome>
+                <bandeira>sd</bandeira>
+            </pais >
+            <pais>
+                <nome>Suazilândia</nome>
+                <bandeira>sz</bandeira>
+            </pais >
+            <pais>
+                <nome>Tanzânia, República Unida</nome>
+                <bandeira>tz</bandeira>
+            </pais >
+            <pais>
+                <nome>Togo</nome>
+                <bandeira>tg</bandeira>
+            </pais >
+            <pais>
+                <nome>Tunísia</nome>
+                <bandeira>tn</bandeira>
+            </pais >
+            <pais>
+                <nome>Uganda</nome>
+                <bandeira>ug</bandeira>
+            </pais >
+            <pais>
+                <nome>Saara Ocidental</nome>
+                <bandeira>eh</bandeira>
+            </pais >
+            <pais>
+                <nome>Zaire</nome>
+                <bandeira>zr</bandeira>
+            </pais >
+            <pais>
+                <nome>Zâmbia</nome>
+                <bandeira>zm</bandeira>
+            </pais >
+            <pais>
+                <nome>Zimbábue</nome>
+                <bandeira>zw</bandeira>
+            </pais >
+        </paises>
+    </continente>
+    <continente>
+        <regiao>América</regiao>
+        <paises>
+            <pais>
+                <nome>Belize</nome>
+                <bandeira>bz</bandeira>
+            </pais >
+            <pais>
+                <nome>Costa Rica</nome>
+                <bandeira>cr</bandeira>
+            </pais >
+            <pais>
+                <nome>Cuba</nome>
+                <bandeira>cu</bandeira>
+            </pais >
+            <pais>
+                <nome>Domínica</nome>
+                <bandeira>dm</bandeira>
+            </pais >
+            <pais>
+                <nome>República Dominicana</nome>
+                <bandeira>do</bandeira>
+            </pais >
+            <pais>
+                <nome>El Salvador</nome>
+                <bandeira>sv</bandeira>
+            </pais >
+            <pais>
+                <nome>Panamá</nome>
+                <bandeira>pa</bandeira>
+            </pais >
+            <pais>
+                <nome>Anguilla</nome>
+                <bandeira>ai</bandeira>
+            </pais >
+            <pais>
+                <nome>Antígua e Barbuda</nome>
+                <bandeira>ag</bandeira>
+            </pais >
+            <pais>
+                <nome>Aruba</nome>
+                <bandeira>aw</bandeira>
+            </pais >
+            <pais>
+                <nome>Bahamas</nome>
+                <bandeira>bs</bandeira>
+            </pais >
+            <pais>
+                <nome>Barbados</nome>
+                <bandeira>bb</bandeira>
+            </pais >
+            <pais>
+                <nome>Bermudas</nome>
+                <bandeira>bm</bandeira>
+            </pais >
+            <pais>
+                <nome>Canadá</nome>
+                <bandeira>ca</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Cayman</nome>
+                <bandeira>ky</bandeira>
+            </pais >
+            <pais>
+                <nome>Gronelândia</nome>
+                <bandeira>gl</bandeira>
+            </pais >
+            <pais>
+                <nome>Granada</nome>
+                <bandeira>gd</bandeira>
+            </pais >
+            <pais>
+                <nome>Guadalupe</nome>
+                <bandeira>gp</bandeira>
+            </pais >
+            <pais>
+                <nome>Guatemala</nome>
+                <bandeira>gt</bandeira>
+            </pais >
+            <pais>
+                <nome>Haiti</nome>
+                <bandeira>ht</bandeira>
+            </pais >
+            <pais>
+                <nome>Honduras</nome>
+                <bandeira>hn</bandeira>
+            </pais >
+            <pais>
+                <nome>Jamaica</nome>
+                <bandeira>jm</bandeira>
+            </pais >
+            <pais>
+                <nome>Martinica</nome>
+                <bandeira>mq</bandeira>
+            </pais >
+            <pais>
+                <nome>México</nome>
+                <bandeira>mx</bandeira>
+            </pais >
+            <pais>
+                <nome>Montserrat</nome>
+                <bandeira>ms</bandeira>
+            </pais >
+            <pais>
+                <nome>Antilhas Holandesas</nome>
+                <bandeira>an</bandeira>
+            </pais >
+            <pais>
+                <nome>Nicarágua</nome>
+                <bandeira>ni</bandeira>
+            </pais >
+            <pais>
+                <nome>São Cristóvão e Nevis</nome>
+                <bandeira>kn</bandeira>
+            </pais >
+            <pais>
+                <nome>Santa Lúcia</nome>
+                <bandeira>lc</bandeira>
+            </pais >
+            <pais>
+                <nome>Saint Pierre e Miquelon</nome>
+                <bandeira>pm</bandeira>
+            </pais >
+            <pais>
+                <nome>São Vicente e Granadinas</nome>
+                <bandeira>vc</bandeira>
+            </pais >
+            <pais>
+                <nome>Trinidad e Tobago</nome>
+                <bandeira>tt</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Turks e Caicos</nome>
+                <bandeira>tc</bandeira>
+            </pais >
+            <pais>
+                <nome>Estados Unidos</nome>
+                <bandeira>us</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Menores Periféis dos Estados Unidos</nome>
+                <bandeira>um</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Virgens (EUA)</nome>
+                <bandeira>vi</bandeira>
+            </pais >
+            <pais>
+                <nome>Argentina</nome>
+                <bandeira>ar</bandeira>
+            </pais >
+            <pais>
+                <nome>Bolívia</nome>
+                <bandeira>bo</bandeira>
+            </pais >
+            <pais>
+                <nome>Brasil</nome>
+                <bandeira>br</bandeira>
+            </pais >
+            <pais>
+                <nome>Chile</nome>
+                <bandeira>cl</bandeira>
+            </pais >
+            <pais>
+                <nome>Colômbia</nome>
+                <bandeira>co</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Falkland (Malvinas)</nome>
+                <bandeira>fk</bandeira>
+            </pais >
+            <pais>
+                <nome>Guiana Francesa</nome>
+                <bandeira>gf</bandeira>
+            </pais >
+            <pais>
+                <nome>Guiana</nome>
+                <bandeira>gy</bandeira>
+            </pais >
+            <pais>
+                <nome>Paraguai</nome>
+                <bandeira>py</bandeira>
+            </pais >
+            <pais>
+                <nome>Peru</nome>
+                <bandeira>pe</bandeira>
+            </pais >
+            <pais>
+                <nome>Porto Rico</nome>
+                <bandeira>pr</bandeira>
+            </pais >
+            <pais>
+                <nome>Suriname</nome>
+                <bandeira>sr</bandeira>
+            </pais >
+            <pais>
+                <nome>Uruguai</nome>
+                <bandeira>uy</bandeira>
+            </pais >
+            <pais>
+                <nome>Venezuela</nome>
+                <bandeira>ve</bandeira>
+            </pais >
+        </paises>
+    </continente>
+    <continente>
+        <regiao>Antártida</regiao>
+        <paises>
+            <pais>
+                <nome>Antártida</nome>
+                <bandeira>aq</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilha Bouvet</nome>
+                <bandeira>bv</bandeira>
+            </pais >
+            <pais>
+                <nome>Territórios do Sul francês</nome>
+                <bandeira>tf</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilha Heard e Ilhas Mcdonald</nome>
+                <bandeira>hm</bandeira>
+            </pais >
+        </paises>
+    </continente>
+    <continente>
+        <regiao>Ásia</regiao>
+        <paises>
+            <pais>
+                <nome>Afeganistão</nome>
+                <bandeira>af</bandeira>
+            </pais >
+            <pais>
+                <nome>Bahrein</nome>
+                <bandeira>bh</bandeira>
+            </pais >
+            <pais>
+                <nome>Bangladesh</nome>
+                <bandeira>bd</bandeira>
+            </pais >
+            <pais>
+                <nome>Butão</nome>
+                <bandeira>bt</bandeira>
+            </pais >
+            <pais>
+                <nome>Continente britânico do Oceano Índico</nome>
+                <bandeira>io</bandeira>
+            </pais >
+            <pais>
+                <nome>Brunei Darussalam</nome>
+                <bandeira>bn</bandeira>
+            </pais >
+            <pais>
+                <nome>Camboja</nome>
+                <bandeira>kh</bandeira>
+            </pais >
+            <pais>
+                <nome>China</nome>
+                <bandeira>cn</bandeira>
+            </pais >
+            <pais>
+                <nome>Geórgia</nome>
+                <bandeira>ge</bandeira>
+            </pais >
+            <pais>
+                <nome>Hong Kong</nome>
+                <bandeira>hk</bandeira>
+            </pais >
+            <pais>
+                <nome>Índia</nome>
+                <bandeira>in</bandeira>
+            </pais >
+            <pais>
+                <nome>Indonésio</nome>
+                <bandeira>id</bandeira>
+            </pais >
+            <pais>
+                <nome>Irã, República Islâmica de</nome>
+                <bandeira>ir</bandeira>
+            </pais >
+            <pais>
+                <nome>Iraque</nome>
+                <bandeira>iq</bandeira>
+            </pais >
+            <pais>
+                <nome>Israel</nome>
+                <bandeira>il</bandeira>
+            </pais >
+            <pais>
+                <nome>Japão</nome>
+                <bandeira>jp</bandeira>
+            </pais >
+            <pais>
+                <nome>Jordânia</nome>
+                <bandeira>jo</bandeira>
+            </pais >
+            <pais>
+                <nome>Cazaquistão</nome>
+                <bandeira>kz</bandeira>
+            </pais >
+            <pais>
+                <nome>Coreia, República Popular Democrática de</nome>
+                <bandeira>kp</bandeira>
+            </pais >
+            <pais>
+                <nome>Coreia, República de</nome>
+                <bandeira>kr</bandeira>
+            </pais >
+            <pais>
+                <nome>Kuaite</nome>
+                <bandeira>kw</bandeira>
+            </pais >
+            <pais>
+                <nome>Quirguistão</nome>
+                <bandeira>kg</bandeira>
+            </pais >
+            <pais>
+                <nome>República Democrática Popular do Lao</nome>
+                <bandeira>la</bandeira>
+            </pais >
+            <pais>
+                <nome>Líbano</nome>
+                <bandeira>lb</bandeira>
+            </pais >
+            <pais>
+                <nome>Macau</nome>
+                <bandeira>mo</bandeira>
+            </pais >
+            <pais>
+                <nome>Malásia</nome>
+                <bandeira>my</bandeira>
+            </pais >
+            <pais>
+                <nome>Maldivas</nome>
+                <bandeira>mv</bandeira>
+            </pais >
+            <pais>
+                <nome>Mongólia</nome>
+                <bandeira>mn</bandeira>
+            </pais >
+            <pais>
+                <nome>Myanmar</nome>
+                <bandeira>mm</bandeira>
+            </pais >
+            <pais>
+                <nome>Nepal</nome>
+                <bandeira>np</bandeira>
+            </pais >
+            <pais>
+                <nome>Omã</nome>
+                <bandeira>om</bandeira>
+            </pais >
+            <pais>
+                <nome>Paquistão</nome>
+                <bandeira>pk</bandeira>
+            </pais >
+            <pais>
+                <nome>Palácio</nome>
+                <bandeira>pw</bandeira>
+            </pais >
+            <pais>
+                <nome>Filipinas</nome>
+                <bandeira>ph</bandeira>
+            </pais >
+            <pais>
+                <nome>Catar</nome>
+                <bandeira>qa</bandeira>
+            </pais >
+            <pais>
+                <nome>Rússia</nome>
+                <bandeira>ru</bandeira>
+            </pais >
+            <pais>
+                <nome>Arábia Saudita</nome>
+                <bandeira>sa</bandeira>
+            </pais >
+            <pais>
+                <nome>Cingapura</nome>
+                <bandeira>sg</bandeira>
+            </pais >
+            <pais>
+                <nome>Sri Lanka</nome>
+                <bandeira>lk</bandeira>
+            </pais >
+            <pais>
+                <nome>República Árabe Síria</nome>
+                <bandeira>sy</bandeira>
+            </pais >
+            <pais>
+                <nome>Taiwan</nome>
+                <bandeira>tw</bandeira>
+            </pais >
+            <pais>
+                <nome>Tajiquistão</nome>
+                <bandeira>tj</bandeira>
+            </pais >
+            <pais>
+                <nome>Tailândia</nome>
+                <bandeira>th</bandeira>
+            </pais >
+            <pais>
+                <nome>Turquia</nome>
+                <bandeira>tr</bandeira>
+            </pais >
+            <pais>
+                <nome>Turquemenistão</nome>
+                <bandeira>tm</bandeira>
+            </pais >
+            <pais>
+                <nome>Emirados Árabes Unidos</nome>
+                <bandeira>ae</bandeira>
+            </pais >
+            <pais>
+                <nome>Uzbequistão</nome>
+                <bandeira>uz</bandeira>
+            </pais >
+            <pais>
+                <nome>Vietname</nome>
+                <bandeira>vn</bandeira>
+            </pais >
+            <pais>
+                <nome>Iêmen</nome>
+                <bandeira>ye</bandeira>
+            </pais >
+        </paises>
+    </continente>
+    <continente>
+        <regiao>Europa</regiao>
+        <paises>
+            <pais>
+                <nome>Albânia</nome>
+                <bandeira>al</bandeira>
+            </pais >
+            <pais>
+                <nome>Andorra</nome>
+                <bandeira>ad</bandeira>
+            </pais >
+            <pais>
+                <nome>Armênia</nome>
+                <bandeira>am</bandeira>
+            </pais >
+            <pais>
+                <nome>Áustria</nome>
+                <bandeira>at</bandeira>
+            </pais >
+            <pais>
+                <nome>Azerbaijão</nome>
+                <bandeira>az</bandeira>
+            </pais >
+            <pais>
+                <nome>Belarus</nome>
+                <bandeira>by</bandeira>
+            </pais >
+            <pais>
+                <nome>Bélgica</nome>
+                <bandeira>be</bandeira>
+            </pais >
+            <pais>
+                <nome>Bósnia e Herzegovina</nome>
+                <bandeira>ba</bandeira>
+            </pais >
+            <pais>
+                <nome>Bulgária</nome>
+                <bandeira>bg</bandeira>
+            </pais >
+            <pais>
+                <nome>Croácia</nome>
+                <bandeira>hr</bandeira>
+            </pais >
+            <pais>
+                <nome>Chipre</nome>
+                <bandeira>cy</bandeira>
+            </pais >
+            <pais>
+                <nome>República Tcheca</nome>
+                <bandeira>cz</bandeira>
+            </pais >
+            <pais>
+                <nome>Dinamarca</nome>
+                <bandeira>dk</bandeira>
+            </pais >
+            <pais>
+                <nome>Estônia</nome>
+                <bandeira>ee</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Faroés</nome>
+                <bandeira>fo</bandeira>
+            </pais >
+            <pais>
+                <nome>Finlândia</nome>
+                <bandeira>fi</bandeira>
+            </pais >
+            <pais>
+                <nome>França</nome>
+                <bandeira>fr</bandeira>
+            </pais >
+            <pais>
+                <nome>França, Metropolitana</nome>
+                <bandeira>fx</bandeira>
+            </pais >
+            <pais>
+                <nome>Alemanha</nome>
+                <bandeira>de</bandeira>
+            </pais >
+            <pais>
+                <nome>Gibraltar</nome>
+                <bandeira>gi</bandeira>
+            </pais >
+            <pais>
+                <nome>Grécia</nome>
+                <bandeira>gr</bandeira>
+            </pais >
+            <pais>
+                <nome>Hungria</nome>
+                <bandeira>hu</bandeira>
+            </pais >
+            <pais>
+                <nome>Islândia</nome>
+                <bandeira>is</bandeira>
+            </pais >
+            <pais>
+                <nome>Irlanda</nome>
+                <bandeira>ie</bandeira>
+            </pais >
+            <pais>
+                <nome>Itália</nome>
+                <bandeira>it</bandeira>
+            </pais >
+            <pais>
+                <nome>Letônia</nome>
+                <bandeira>lv</bandeira>
+            </pais >
+            <pais>
+                <nome>Liechtenstein</nome>
+                <bandeira>li</bandeira>
+            </pais >
+            <pais>
+                <nome>Lituânia</nome>
+                <bandeira>lt</bandeira>
+            </pais >
+            <pais>
+                <nome>Luxemburgo</nome>
+                <bandeira>lu</bandeira>
+            </pais >
+            <pais>
+                <nome>Macedônia, A Antiga República Iugoslava</nome>
+                <bandeira>mk</bandeira>
+            </pais >
+            <pais>
+                <nome>Malta</nome>
+                <bandeira>mt</bandeira>
+            </pais >
+            <pais>
+                <nome>Moldávia, República de</nome>
+                <bandeira>md</bandeira>
+            </pais >
+            <pais>
+                <nome>Mónaco</nome>
+                <bandeira>mc</bandeira>
+            </pais >
+            <pais>
+                <nome>Países Baixos</nome>
+                <bandeira>nl</bandeira>
+            </pais >
+            <pais>
+                <nome>Noruega</nome>
+                <bandeira>no</bandeira>
+            </pais >
+            <pais>
+                <nome>Polônia</nome>
+                <bandeira>pl</bandeira>
+            </pais >
+            <pais>
+                <nome>Portugal</nome>
+                <bandeira>pt</bandeira>
+            </pais >
+            <pais>
+                <nome>Romênia</nome>
+                <bandeira>ro</bandeira>
+            </pais >
+            <pais>
+                <nome>San Marino</nome>
+                <bandeira>sm</bandeira>
+            </pais >
+            <pais>
+                <nome>Eslováquia (República Eslovaca)</nome>
+                <bandeira>sk</bandeira>
+            </pais >
+            <pais>
+                <nome>Eslovênia</nome>
+                <bandeira>si</bandeira>
+            </pais >
+            <pais>
+                <nome>Espanha</nome>
+                <bandeira>es</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Svalbard e Jan Mayen</nome>
+                <bandeira>sj</bandeira>
+            </pais >
+            <pais>
+                <nome>Suécia</nome>
+                <bandeira>se</bandeira>
+            </pais >
+            <pais>
+                <nome>Suíça</nome>
+                <bandeira>ch</bandeira>
+            </pais >
+            <pais>
+                <nome>Ucrânia</nome>
+                <bandeira>ua</bandeira>
+            </pais >
+            <pais>
+                <nome>Reino Unido</nome>
+                <bandeira>gb</bandeira>
+            </pais >
+            <pais>
+                <nome>Estado da Cidade do Vaticano (Santa Sé)</nome>
+                <bandeira>va</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Virgens (Britânicas)</nome>
+                <bandeira>vg</bandeira>
+            </pais >
+            <pais>
+                <nome>Jugoslávia</nome>
+                <bandeira>yu</bandeira>
+            </pais >
+        </paises>
+    </continente>
+    <continente>
+        <regiao>Oceania</regiao>
+        <paises>
+            <pais>
+                <nome>Austrália</nome>
+                <bandeira>au</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilha Christmas</nome>
+                <bandeira>cx</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Cocos (Keeling)</nome>
+                <bandeira>cc</bandeira>
+            </pais >
+            <pais>
+                <nome>Guam</nome>
+                <bandeira>gu</bandeira>
+            </pais >
+            <pais>
+                <nome>Kiribati</nome>
+                <bandeira>ki</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Marshall</nome>
+                <bandeira>mh</bandeira>
+            </pais >
+            <pais>
+                <nome>Nauru</nome>
+                <bandeira>nr</bandeira>
+            </pais >
+            <pais>
+                <nome>Nova Caledónia</nome>
+                <bandeira>nc</bandeira>
+            </pais >
+            <pais>
+                <nome>Nova Zelândia</nome>
+                <bandeira>nz</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilha Norfolk</nome>
+                <bandeira>nf</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Marianas do Norte</nome>
+                <bandeira>mp</bandeira>
+            </pais >
+            <pais>
+                <nome>Pitcairn</nome>
+                <bandeira>pn</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Salomão</nome>
+                <bandeira>sb</bandeira>
+            </pais >
+            <pais>
+                <nome>Tokelau</nome>
+                <bandeira>tk</bandeira>
+            </pais >
+            <pais>
+                <nome>Vanuatu</nome>
+                <bandeira>vu</bandeira>
+            </pais >
+            <pais>
+                <nome>Fiji</nome>
+                <bandeira>fj</bandeira>
+            </pais >
+            <pais>
+                <nome>Papua-Nova Guiné</nome>
+                <bandeira>pg</bandeira>
+            </pais >
+            <pais>
+                <nome>Micronésia, Estados Federados</nome>
+                <bandeira>fm</bandeira>
+            </pais >
+            <pais>
+                <nome>Samoa Americana</nome>
+                <bandeira>as</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Cook</nome>
+                <bandeira>ck</bandeira>
+            </pais >
+            <pais>
+                <nome>Polinésia Francesa</nome>
+                <bandeira>pf</bandeira>
+            </pais >
+            <pais>
+                <nome>Niue</nome>
+                <bandeira>nu</bandeira>
+            </pais >
+            <pais>
+                <nome>Tonga</nome>
+                <bandeira>to</bandeira>
+            </pais >
+            <pais>
+                <nome>Tuvalu</nome>
+                <bandeira>tv</bandeira>
+            </pais >
+            <pais>
+                <nome>Ilhas Wallis e Futuna</nome>
+                <bandeira>wf</bandeira>
+            </pais >
+        </paises>
+    </continente>
+</mapa>
